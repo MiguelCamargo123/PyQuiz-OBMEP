@@ -1,17 +1,17 @@
 [
   {
+    "id": 1,
     "pergunta": "Pedro tem muitas notas de 2 e de 5 reais. Ele precisa pagar uma conta de 20 reais. De quantas maneiras diferentes Pedro pode pagar essa conta sem receber troco?",
-    "resposta": "3",
     "dificuldade": 1
   },
   {
+    "id": 2,
     "pergunta": "João atribuiu um número a cada lettra do alfabeto. Somando os números atribuidos às letras, ele obteve 40 para JABUTI, 19 para CABRA e 55 para JABUTICABA. Qual é o valor que ele atribuiu à letra R?",
-    "resposta": "4",
     "dificuldade": 1
   },
   {
+    "id": 3,
     "pergunta": "É recomendável que o peso total da mochila com o material escolar de um estudande não ultrapasse 12% do peso do estudante. Ana pesa 48 quilogramas e sua mochila vazia pesa 760 gramas. Qual é o peso máximo recomendado para o material escolar que Ana pode levar em sua mochila?",
-    "resposta": "5",
     "dificuldade": 2
   }
 ]
