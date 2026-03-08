@@ -24,5 +24,16 @@ class Quiz:
     def _mostrar_questoes(self, lista_filtrada):
         questao = random.choice(lista_filtrada)
         print(f'A pergunta é a seguinte: {questao["pergunta"]}')
+        return questao
 
-    def verificar_acerto(self, resposta): ...
+    def verificar_acerto(self, questao, resposta_pessoa):
+        with open('answers.json', 'r', encoding='utf-8') as re:
+            resposta = json.load(re)
+
+        for r in resposta:
+            if r['id'] == questao['id']:
+                if resposta_pessoa == r['resposta']:
+                    print('Parabens, você acertou a questão!')
+                else:
+                    print('Infelizmente, você errou a questão')
+                break
