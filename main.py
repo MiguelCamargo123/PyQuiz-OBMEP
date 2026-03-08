@@ -25,7 +25,7 @@ class Quiz:
         return filtradas
 
     def _mostrar_questoes(self, lista_filtrada):
-        questao = random.sample(lista_filtrada)
+        questao = random.choice(lista_filtrada)
         print(f'A pergunta é a seguinte: {questao["pergunta"]}')
         return questao
 
@@ -71,22 +71,44 @@ def main():
             'Seja bem vindo ao treinamento da OBMEP, criado por Miguel Camargo, feito para estudantes que querem ir bem na OBMEP'
         )
 
+        print()
         print(
             'Antes de começarmos, você deve digitar a dificuldade do teste, após essa mensagem, aparecerá uma pergunta para você escolher a dificuldade das questões'
         )
 
+        print()
         try:
             dificuldade = int(
                 input(
-                    'Digite a dificuldade das perguntas que você quer receber (digite 1, 2) '
+                    'Digite a dificuldade das perguntas que você quer receber (digite 1 ou 2) '
                 )
             )
             filtradas = perguntas._dificuldade_questoes(dificuldade)
         except ValueError:
+            print()
             print('Por favor, digite um número dos falados a cima, não um texto')
 
+        print()
         questao = perguntas._mostrar_questoes(filtradas)
 
+        print()
         resposta = int(input('Digite a resposta da pergunta acima: '))
 
+        print()
         perguntas.verificar_acerto(questao, resposta)
+
+        perguntas._criar_historico()
+
+        print()
+        deseja_sair = input(
+            'Você deseja sair do sistema? Se sim, digite S, caso contrario, digite N '
+        ).upper()
+
+        print()
+        if deseja_sair == 'S':
+            print('Obrigado por entrar e usar meu sistema!!')
+            break
+
+
+if __name__ == '__main__':
+    main()
