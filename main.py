@@ -38,11 +38,12 @@ class Quiz:
                 if resposta_pessoa == r['resposta']:
                     print('Parabens, você acertou a questão!')
                     self.acertos += 1
+                    break
                 else:
                     print('Infelizmente, você errou a questão')
                     self.erros += 1
                 break
-            self.perguntas_feitas += 1
+        self.perguntas_feitas += 1
 
     def _carregar_historico(self):
         try:
@@ -92,12 +93,10 @@ def main():
         questao = perguntas._mostrar_questoes(filtradas)
 
         print()
-        resposta = int(input('Digite a resposta da pergunta acima: '))
+        resposta = input('Digite a resposta da pergunta acima: ')
 
         print()
         perguntas.verificar_acerto(questao, resposta)
-
-        perguntas._criar_historico()
 
         print()
         deseja_sair = input(
@@ -106,6 +105,7 @@ def main():
 
         print()
         if deseja_sair == 'S':
+            perguntas._criar_historico()
             print('Obrigado por entrar e usar meu sistema!!')
             break
 
