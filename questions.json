@@ -1,17 +1,37 @@
 [
-  {
-    "id": 1,
-    "pergunta": "Pedro tem muitas notas de 2 e de 5 reais. Ele precisa pagar uma conta de 20 reais. De quantas maneiras diferentes Pedro pode pagar essa conta sem receber troco?",
-    "dificuldade": 1
-  },
-  {
-    "id": 2,
-    "pergunta": "João atribuiu um número a cada letra do alfabeto. Somando os números atribuidos às letras, ele obteve 40 para JABUTI, 19 para CABRA e 55 para JABUTICABA. Qual é o valor que ele atribuiu à letra R?",
-    "dificuldade": 1
-  },
-  {
-    "id": 3,
-    "pergunta": "É recomendável que o peso total da mochila com o material escolar de um estudande não ultrapasse 12% do peso do estudante. Ana pesa 48 quilogramas e sua mochila vazia pesa 760 gramas. Qual é o peso máximo recomendado para o material escolar que Ana pode levar em sua mochila?",
-    "dificuldade": 2
-  }
+    {
+        "id": 1,
+        "pergunta": "Pedro tem muitas notas de 2 e de 5 reais. Ele precisa pagar uma conta de 20 reais. De quantas maneiras diferentes Pedro pode pagar essa conta sem receber troco?",
+        "dificuldade": 1
+    },
+    {
+        "id": 2,
+        "pergunta": "João atribuiu um número a cada letra do alfabeto. Somando os números atribuidos às letras, ele obteve 40 para JABUTI, 19 para CABRA e 55 para JABUTICABA. Qual é o valor que ele atribuiu à letra R?",
+        "dificuldade": 1
+    },
+    {
+        "id": 3,
+        "pergunta": "É recomendável que o peso total da mochila com o material escolar de um estudande não ultrapasse 12% do peso do estudante. Ana pesa 48 quilogramas e sua mochila vazia pesa 760 gramas. Qual é o peso máximo recomendado para o material escolar que Ana pode levar em sua mochila?",
+        "dificuldade": 2
+    },
+    {
+        "id": 4,
+        "pergunta": "Uma farmácia vende comprimidos em caixas com 12, ao custo de 40 reais por caixa, ou em caixas com 8, ao custo de 25 reais por caixa. Paulo comprou exatamente 28 comprimidos. Quanto ele gastou, em reais, nessa compra?",
+        "dificuldade": 1
+    },
+    {
+        "id": 5,
+        "pergunta": "Um grupo de amigos se reuniu para comer quatro pizzas. Cada um deles comeu dois terços de uma pizza e não sobrou nada. Quantos eram os amigos",
+        "dificuldade": 1
+    },
+    {
+        "id": 6,
+        "pergunta": "Em um teatro, cada fileira tem 6 cadeiras. Para melhorar a acessibilidade, foram retiradas todas as cadeiras de uma fileira para formar um corredor e, depois, todas as 9 cadeiras na quinta posição das fileiras restantes. Quantas cadeiras sobraram?",
+        "dificuldade": 1
+    },
+    {
+        "id": 7,
+        "pergunta": "Artur deu duas notas de cem reais para pagar uma conta de R$ 126,80. Qual é o valor do troco que ele deve receber?",
+        "dificuldade": 1
+    }
 ]
