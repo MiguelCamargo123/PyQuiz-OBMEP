@@ -148,5 +148,55 @@
         "id": 30,
         "pergunta": "Em um palácio estavam presentes apenas o rei e alguns de seus súditos. Cada um dos presentes acenou para cada um dos demais uma única vez, com exceção do rei, que não acenou para ninguém. Houve um total de 1296 acenos. Quantos súditos estavam presentes no palácio?",
         "dificuldade": 2
-    }
+    },
+    {
+        "id": 31,
+        "pergunta": "Os números a e b são inteiros positivos tais que a/11 + b/3 = 31/33. Qual é o valor de a + b?",
+        "dificuldade": 2
+    },
+    {
+        "id": 32,
+        "pergunta": "No refeitório da escola de Sofia, há mesas de 8 lugares e mesas de 5 lugares. O número de mesas de 8 lugares é maior do que o número de mesas de 5 lugares. Hoje todos os 111 alunos almoçaram ao mesmo tempo, e não sobrou nenhum lugar vazio. Quantas mesas há no refeitório?",
+        "dificuldade": 2
+    },
+    {
+        "id": 33,
+        "pergunta": "Uma função f é tal que f(2x + 1) = 2f(x) + 1 para todo número real x, e f(2) = 2. Qual é o valor de f(5)?",
+        "dificuldade": 2
+    },
+    {
+        "id": 34,
+        "pergunta": "Dois números inteiros positivos têm soma 48. O maior deles é igual ao triplo do menor. Qual é o produto desses dois números?",
+        "dificuldade": 2
+    },
+    {
+        "id": 35,
+        "pergunta": "Em uma corrida de 100 metros, quando o corredor A cruza a linha de chegada, o corredor B está 10 metros atrás dele. Se os dois mantiverem suas velocidades, em uma corrida de 200 metros, qual será a distância entre eles quando o corredor A cruzar a linha de chegada?",
+        "dificuldade": 2
+    },
+    {
+        "id": 36,
+        "pergunta": "O número 2014 é par e é um múltiplo de 19. Qual é o próximo ano que também é par e múltiplo de 19?",
+        "dificuldade": 2
+    },
+    {
+        "id": 37,
+        "pergunta": "Um relógio atrasa 3 minutos a cada 4 horas. Se ele for acertado pontualmente ao meio-dia de hoje, que horas ele marcará ao meio-dia de amanhã?",
+        "dificuldade": 2
+    },
+    {
+        "id": 38,
+        "pergunta": "Quantos números inteiros entre 1 e 100 são divisíveis por 3 ou por 5?",
+        "dificuldade": 2
+    },
+    {
+        "id": 39,
+        "pergunta": "Qual é o algarismo das unidades do número 2 elevado a 2023 (2^2023)?",
+        "dificuldade": 2
+    },
+    {
+        "id": 40,
+        "pergunta": "Em uma família, o pai é 4 anos mais velho que a mãe. A soma das idades do pai, da mãe e dos dois filhos é 90 anos. Sabendo que os filhos são gêmeos e que a mãe teve os filhos aos 25 anos, qual é a idade atual dos filhos?",
+        "dificuldade": 2
+    },
 ]
