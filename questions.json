@@ -99,4 +99,54 @@
         "pergunta": "Em um teatro, cada fileira tem 6 cadeiras. Para melhorar a acessibilidade, foram retiradas todas as cadeiras de uma fileira para formar um corredor e, depois, todas as 9 cadeiras na quinta posição das fileiras restantes. Quantas cadeiras sobraram?",
         "dificuldade": 1
     },
+    {
+        "id": 21,
+        "pergunta": "As vagas de um estacionamento estão numeradas de 1 a 99. Todas as vagas com número ímpar estão ocupadas, e as demais estão vazias. Quantas vagas estão ocupadas?",
+        "dificuldade": 2
+    },
+    {
+        "id": 22,
+        "pergunta": "Em cada partida de um jogo disputado por dois jogadores, há sempre um vencedor e não há empates. Cada jogador começa o jogo com 100 pontos. Quem vence uma partida soma 5 a seus pontos, e quem perde subtrai 2 de seus pontos. O jogo termina quando a soma dos pontos dos dois jogadores passar de 300. Após o encerramento do jogo, quantas partidas foram realizadas?",
+        "dificuldade": 2
+    },
+    {
+        "id": 23,
+        "pergunta": "Em seu espetáculo, um mágico diz para Fernanda: 'Pense em um número, multiplique por 3, adicione 1, multiplique por 8, subtraia 2 e divida por 6. Agora me diga o número que você encontrou, que eu lhe direi o número em que você pensou.' Que operações matemáticas o mágico pode fazer com o número final dito por Fernanda para descobrir o número original em que ela pensou?",
+        "dificuldade": 2
+    },
+    {
+        "id": 24,
+        "pergunta": "Morgana escolheu seis números inteiros positivos e diferentes entre si, cuja soma é 2020. Qual é o maior número que pode aparecer dentre os números escolhidos?",
+        "dificuldade": 2
+    },
+    {
+        "id": 25,
+        "pergunta": "Uma prova é formada por 45 questões de múltipla escolha. Cada resposta correta vale 1 ponto e para cada resposta errada desconta-se 0,25 ponto; questões não respondidas não são pontuadas. Um estudante obteve 28 pontos nessa prova. Qual é o número máximo de questões que ele pode ter acertado?",
+        "dificuldade": 2
+    },
+    {
+        "id": 26,
+        "pergunta": "Um fabricante diminuiu a quantidade de chocolate em uma caixa de 250 g para 200 g, mantendo o preço da caixa. Qual foi o aumento percentual do preço do grama do chocolate?",
+        "dificuldade": 2
+    },
+    {
+        "id": 27,
+        "pergunta": "Juca colocou algumas bolinhas em uma caixa na qual cabem, no máximo, 100 bolinhas. Artur tirou 1/2 das bolinhas dessa caixa, depois Bernardo tirou 1/3 das restantes, em seguida Carlos tirou 1/4 das que sobraram e, finalmente, Danilo tirou 1/5 das que restaram. Quantas bolinhas ficaram na caixa?",
+        "dificuldade": 2
+    },
+    {
+        "id": 28,
+        "pergunta": "Um supermercado vende rolos idênticos de papel higiênico e faz as seguintes promoções: (Promoção 1) Pague 5 e leve 6. (Promoção 2) Pague 11 e leve 12. (Promoção 3) Pague 14 e leve 18. (Promoção 4) Pague 21 e leve 24. (Promoção 5) Pague 31 e leve 36. Qual é a promoção mais vantajosa para o cliente?",
+        "dificuldade": 2
+    },
+    {
+        "id": 29,
+        "pergunta": "Maria escolheu um número inteiro. Ela somou a esse número os três números ímpares imediatamente inferiores e os dois números pares imediatamente superiores a ele e obteve 1414 como resultado. Qual é a soma dos algarismos do número que Maria escolheu?",
+        "dificuldade": 2
+    },
+    {
+        "id": 30,
+        "pergunta": "Em um palácio estavam presentes apenas o rei e alguns de seus súditos. Cada um dos presentes acenou para cada um dos demais uma única vez, com exceção do rei, que não acenou para ninguém. Houve um total de 1296 acenos. Quantos súditos estavam presentes no palácio?",
+        "dificuldade": 2
+    }
 ]
