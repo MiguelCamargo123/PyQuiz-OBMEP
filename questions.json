@@ -199,4 +199,54 @@
         "pergunta": "Em uma família, o pai é 4 anos mais velho que a mãe. A soma das idades do pai, da mãe e dos dois filhos é 90 anos. Sabendo que os filhos são gêmeos e que a mãe teve os filhos aos 25 anos, qual é a idade atual dos filhos?",
         "dificuldade": 2
     },
+    {
+        "id": 41,
+        "pergunta": "Júlia e duas amigas compraram uma torta redonda. Júlia comeu um quarto da torta, e cada uma de suas duas amigas comeu um terço do que havia sobrado. Qual é a fração da torta que restou?",
+        "dificuldade": 3
+    },
+    {
+        "id": 42,
+        "pergunta": "Na fila do restaurante há 15 pessoas à frente de João e 20 pessoas atrás de Maria. Sabendo que João está à frente de Maria e que há exatamente 5 pessoas entre eles, quantas pessoas há na fila?",
+        "dificuldade": 3
+    },
+    {
+        "id": 43,
+        "pergunta": "Em uma sala há homens e mulheres. Se saírem 3 mulheres, o número de homens e mulheres ficará igual. Se saírem 3 homens, o número de mulheres será o dobro do número de homens. Quantas pessoas há na sala originalmente?",
+        "dificuldade": 3
+    },
+    {
+        "id": 44,
+        "pergunta": "Um número inteiro deixa resto 2 quando dividido por 3, resto 3 quando dividido por 4, e resto 4 quando dividido por 5. Qual é o menor valor positivo possível para esse número?",
+        "dificuldade": 3
+    },
+    {
+        "id": 45,
+        "pergunta": "Ana tem moedas de 5, 10 e 25 centavos, totalizando R$ 2,00. Sabendo que ela tem exatamente a mesma quantidade de moedas de cada valor, quantas moedas ela tem no total?",
+        "dificuldade": 3
+    },
+    {
+        "id": 46,
+        "pergunta": "Na prova de matemática de Juca, havia 20 questões. Ele ganhava 5 pontos por cada resposta correta e perdia 2 pontos por cada resposta errada. Sabendo que ele respondeu todas as questões e obteve 51 pontos, quantas questões ele acertou?",
+        "dificuldade": 3
+    },
+    {
+        "id": 47,
+        "pergunta": "Janaína coleciona tampinhas e tem mais de 20 delas, mas menos de 50. Se colocar 5 tampinhas em cada caixa, sobrarão 3. Se colocar 7 em cada caixa, sobrará 1. Quantas tampinhas Janaína tem?",
+        "dificuldade": 3
+    },
+    {
+        "id": 48,
+        "pergunta": "A média das notas de 50 alunos de uma turma é 6,8. Sabendo que a média das notas das meninas é 7,0 e a dos meninos é 6,5, quantas meninas há nessa turma?",
+        "dificuldade": 3
+    },
+    {
+        "id": 49,
+        "pergunta": "Uma lesma sobe em um poste de 10 metros de altura. A cada dia ela sobe 3 metros, mas durante a noite ela escorrega e desce 2 metros. Quantos dias a lesma levará para atingir o topo do poste pela primeira vez?",
+        "dificuldade": 3
+    },
+    {
+        "id": 50,
+        "pergunta": "Um torneio de futebol tem 6 times. Cada time joga contra todos os outros exatamente uma vez. A vitória vale 3 pontos, o empate vale 1 ponto e a derrota não vale pontos. Qual é o número máximo de pontos que o time campeão pode obter?",
+        "dificuldade": 3
+    }
 ]
