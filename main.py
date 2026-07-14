@@ -47,7 +47,7 @@ class Quiz:
 
     def _carregar_historico(self):
         try:
-            with open('historico.json', 'r', encoding='utf=8') as his:
+            with open('historico_pessoal.json', 'r', encoding='utf=8') as his:
                 self.historico = json.load(his)
         except FileNotFoundError:
             self.historico = []
@@ -61,7 +61,7 @@ class Quiz:
             }
         )
 
-        with open('historico.json', 'w', encoding='utf-8') as his:
+        with open('historico_pessoal.json', 'w', encoding='utf-8') as his:
             json.dump(self.historico, his, ensure_ascii=False, indent=4)
 
 
