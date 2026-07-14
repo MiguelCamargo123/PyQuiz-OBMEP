@@ -81,7 +81,7 @@ def main():
         try:
             dificuldade = int(
                 input(
-                    'Digite a dificuldade das perguntas que você quer receber (digite 1 ou 2) '
+                    'Digite a dificuldade das perguntas que você quer receber (digite 1, 2 ou 3) '
                 )
             )
             filtradas = perguntas._dificuldade_questoes(dificuldade)
