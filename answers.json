@@ -1,254 +1,304 @@
 [
-    {
-        "id": 1,
-        "resposta": "73,20",
-        "explicacao": "Duas notas de cem reais somam 200 reais. Subtraindo o valor da conta: 200,00 - 126,80 = 73,20. Portanto, o troco é de R$ 73,20."
-    },
-    {
-        "id": 2,
-        "resposta": "4580247",
-        "explicacao": "Como 4580247 = 4580254 - 7, concluímos que 4580247 também é múltiplo de 7, pois a diferença entre eles é exatamente 7."
-    },
-    {
-        "id": 3,
-        "resposta": "600",
-        "explicacao": "A diferença de peso (10,8 - 5,7 = 5,1 kg) corresponde a metade da água. O peso total da água é 2 x 5,1 = 10,2 kg. O peso do garrafão vazio é 10,8 - 10,2 = 0,6 kg, que equivale a 600 gramas."
-    },
-    {
-        "id": 4,
-        "resposta": "12",
-        "explicacao": "Os algarismos disponíveis em 2015 são 0, 1, 2 e 5. Para a casa das dezenas, temos 3 opções (1, 2 ou 5, pois não pode ser 0). Para as unidades, temos as 4 opções. Logo, o total é 3 x 4 = 12 números."
-    },
-    {
-        "id": 5,
-        "resposta": "0",
-        "explicacao": "A multiplicação de números ímpares que inclui o fator 5 termina sempre no algarismo 5. Como a seguir se subtrai 2015 (que também termina em 5), o algarismo das unidades do resultado final será 5 - 5 = 0."
-    },
-    {
-        "id": 6,
-        "resposta": "16",
-        "explicacao": "A soma das faces opostas num dado normal é 7. Para os 5 dados em conjunto, a soma de todas as faces de cima e de baixo é 5 x 7 = 35. Se a soma das faces de cima é 19, a soma das faces de baixo é 35 - 19 = 16."
-    },
-    {
-        "id": 7,
-        "resposta": "885",
-        "explicacao": "O maior número da lista da Ana é 987 (ímpar 9, par 8, ímpar 7). O menor número da lista do Beto é 102 (ímpar 1, pares 0 e 2). A maior diferença possível entre as duas listas é 987 - 102 = 885."
-    },
-    {
-        "id": 8,
-        "resposta": "24",
-        "explicacao": "A Sílvia demora 60 / 5 = 12 minutos para terminar a sua parte. Nesses mesmos 12 minutos, o Renato fez 12 x 3 = 36 biscoitos. Ainda lhe faltam 60 - 36 = 24 biscoitos."
-    },
-    {
-        "id": 9,
-        "resposta": "7,50",
-        "explicacao": "Se 3/8 do bolo custam 4,50, então 1/8 custa 4,50 / 3 = 1,50. O João comprou o restante do bolo, ou seja, 5/8. Logo, ele pagou 5 x 1,50 = 7,50 reais."
-    },
-    {
-        "id": 10,
-        "resposta": "7,2",
-        "explicacao": "A soma das notas dos quatro alunos é 4 x 7,0 = 28. Somando a nota do quinto aluno, o total da turma passa a ser 28 + 8,0 = 36. A média dos cinco alunos será 36 / 5 = 7,2."
-    },
-    {
-        "id": 11,
-        "resposta": "10100",
-        "explicacao": "Para multiplicar um número por 100, basta acrescentar dois zeros ao seu final. Portanto, 101 x 100 resulta em 10100 (dez mil e cem)."
-    },
-    {
-        "id": 12,
-        "resposta": "50",
-        "explicacao": "A prova do nível 1 tem 20 questões. A prova do nível 2 partilha 5 questões com o nível 1 (3 comuns aos três níveis + 2 comuns só ao N1 e N2), tendo por isso 15 questões novas. A prova do nível 3 partilha também 5 questões com os níveis anteriores (3 comuns a todos + 2 comuns só ao N2 e N3), o que lhe confere 15 novas. O total de questões distintas é 20 + 15 + 15 = 50."
-    },
-    {
-        "id": 13,
-        "resposta": "10",
-        "explicacao": "Inicialmente, havia 1 copo de suco e 4 de água, totalizando 5 copos na jarra. Para dobrar esse volume, ele adicionou mais 5 copos de água, ficando com 10 copos no total. Como apenas 1 copo é de suco, a proporção é 1 em 10, o que equivale a 10%."
-    },
-    {
-        "id": 14,
-        "resposta": "C",
-        "explicacao": "Na caixa existem 3 bolas que não são vermelhas (2 brancas e 1 preta). Como o Renato retirou 4 bolas, mesmo no 'pior' cenário onde ele tirasse todas as bolas brancas e a preta, ele só teria 3 bolas nas mãos. Para completar as 4 bolas retiradas, a próxima obrigatoriamente tem que ser vermelha. Logo, a resposta correta é a C (Pelo menos uma bola é vermelha)."
-    },
-    {
-        "id": 15,
-        "resposta": "240",
-        "explicacao": "As voltas completas (5 na ida e 4 na volta) o deixam na mesma posição, então podemos focá-las só nas frações. Na ida, ele parou na metade da pista (1/2). Na volta (em sentido contrário), ele correu mais 1/3 de pista. A distância que ficou faltando até o ponto de início é 1/2 - 1/3 = 1/6 da pista. Se esse 1/6 corresponde aos 40 metros que faltam, a pista toda tem 40 x 6 = 240 metros."
-    },
-    {
-        "id": 16,
-        "resposta": "3",
-        "explicacao": "As combinações possíveis que somam 20 reais exatos são: usar dez notas de 2 reais (10x2=20); usar quatro notas de 5 reais (4x5=20); ou misturar usando cinco notas de 2 reais e duas notas de 5 reais (10+10=20). Portanto, há 3 maneiras diferentes."
-    },
-    {
-        "id": 17,
-        "resposta": "4",
-        "explicacao": "A palavra JABUTICABA é formada pelas letras de JABUTI + CABA. Se JABUTICABA vale 55 e JABUTI vale 40, então as letras CABA valem a diferença: 55 - 40 = 15. A palavra CABRA é formada por CABA + R. Se CABRA vale 19 e CABA vale 15, então a letra R só pode valer 19 - 15 = 4."
-    },
-    {
-        "id": 18,
-        "resposta": "90",
-        "explicacao": "Para comprar exatamente 28 comprimidos com caixas de 12 e 8, a única soma possível é comprar uma caixa de 12 e duas caixas de 8 (12 + 8 + 8 = 28). O custo será 1 caixa de 40 reais somada a 2 caixas de 25 reais (50 reais). O total gasto é 40 + 50 = 90 reais."
-    },
-    {
-        "id": 19,
-        "resposta": "6",
-        "explicacao": "Existem 4 pizzas no total. Como cada amigo comeu 2/3 de uma pizza, podemos pensar em fatias. Se dividirmos cada pizza em 3 pedaços, teremos 12 pedaços no total (4x3). Cada amigo comeu 2 pedaços. Dividindo os 12 pedaços disponíveis por 2 pedaços por pessoa, descobrimos que havia 12 / 2 = 6 amigos."
-    },
-    {
-        "id": 20,
-        "resposta": "45",
-        "explicacao": "Se foram retiradas 9 cadeiras nas outras fileiras, significa que sobraram exatamente 9 fileiras após remover a primeira (logo, o teatro tinha 10 fileiras originais). A conta final é simples: sobraram 9 fileiras e de cada uma delas foi tirada 1 cadeira, restando 5 cadeiras em cada fileira. Fazendo 9 x 5, chegamos a 45 cadeiras."
-    },
-    
-    {
-        "id": 21,
-        "pergunta": "As vagas de um estacionamento estão numeradas de 1 a 99. Todas as vagas com número ímpar estão ocupadas, e as demais estão vazias. Quantas vagas estão ocupadas?",
-        "dificuldade": 2
-    },
-    {
-        "id": 22,
-        "pergunta": "Em cada partida de um jogo disputado por dois jogadores, há sempre um vencedor e não há empates. Cada jogador começa o jogo com 100 pontos. Quem vence uma partida soma 5 a seus pontos, e quem perde subtrai 2 de seus pontos. O jogo termina quando a soma dos pontos dos dois jogadores passar de 300. Após o encerramento do jogo, quantas partidas foram realizadas?",
-        "dificuldade": 2
-    },
-    {
-        "id": 23,
-        "pergunta": "Em seu espetáculo, um mágico diz para Fernanda: 'Pense em um número, multiplique por 3, adicione 1, multiplique por 8, subtraia 2 e divida por 6. Agora me diga o número que você encontrou, que eu lhe direi o número em que você pensou.' Que operações matemáticas o mágico pode fazer com o número final dito por Fernanda para descobrir o número original em que ela pensou?",
-        "dificuldade": 2
-    },
-    {
-        "id": 24,
-        "pergunta": "Morgana escolheu seis números inteiros positivos e diferentes entre si, cuja soma é 2020. Qual é o maior número que pode aparecer dentre os números escolhidos?",
-        "dificuldade": 2
-    },
-    {
-        "id": 25,
-        "pergunta": "Uma prova é formada por 45 questões de múltipla escolha. Cada resposta correta vale 1 ponto e para cada resposta errada desconta-se 0,25 ponto; questões não respondidas não são pontuadas. Um estudante obteve 28 pontos nessa prova. Qual é o número máximo de questões que ele pode ter acertado?",
-        "dificuldade": 2
-    },
-    {
-        "id": 26,
-        "pergunta": "Um fabricante diminuiu a quantidade de chocolate em uma caixa de 250 g para 200 g, mantendo o preço da caixa. Qual foi o aumento percentual do preço do grama do chocolate?",
-        "dificuldade": 2
-    },
-    {
-        "id": 27,
-        "pergunta": "Juca colocou algumas bolinhas em uma caixa na qual cabem, no máximo, 100 bolinhas. Artur tirou 1/2 das bolinhas dessa caixa, depois Bernardo tirou 1/3 das restantes, em seguida Carlos tirou 1/4 das que sobraram e, finalmente, Danilo tirou 1/5 das que restaram. Quantas bolinhas ficaram na caixa?",
-        "dificuldade": 2
-    },
-    {
-        "id": 28,
-        "pergunta": "Um supermercado vende rolos idênticos de papel higiênico e faz as seguintes promoções: (Promoção 1) Pague 5 e leve 6. (Promoção 2) Pague 11 e leve 12. (Promoção 3) Pague 14 e leve 18. (Promoção 4) Pague 21 e leve 24. (Promoção 5) Pague 31 e leve 36. Qual é a promoção mais vantajosa para o cliente?",
-        "dificuldade": 2
-    },
-    {
-        "id": 29,
-        "pergunta": "Maria escolheu um número inteiro. Ela somou a esse número os três números ímpares imediatamente inferiores e os dois números pares imediatamente superiores a ele e obteve 1414 como resultado. Qual é a soma dos algarismos do número que Maria escolheu?",
-        "dificuldade": 2
-    },
-    {
-        "id": 30,
-        "pergunta": "Em um palácio estavam presentes apenas o rei e alguns de seus súditos. Cada um dos presentes acenou para cada um dos demais uma única vez, com exceção do rei, que não acenou para ninguém. Houve um total de 1296 acenos. Quantos súditos estavam presentes no palácio?",
-        "dificuldade": 2
-    },
-    
-    {
-        "id": 31,
-        "resposta": "5",
-        "explicacao": "Multiplicando toda a equação a/11 + b/3 = 31/33 por 33 (que é o MMC), obtemos 3a + 11b = 31. Como a e b são inteiros positivos, podemos testar valores para b. Se b=1, 3a + 11 = 31, o que dá 3a = 20 (não serve, pois a não seria inteiro). Se b=2, 3a + 22 = 31, o que resulta em 3a = 9, logo a = 3. Como b não pode ser 3 ou maior (pois 11x3 já passaria de 31), os valores são a=3 e b=2. Portanto, a + b = 5."
-    },
-    {
-        "id": 32,
-        "resposta": "15",
-        "explicacao": "Sendo x o número de mesas de 8 lugares e y as mesas de 5, temos a equação 8x + 5y = 111, com a condição de que x > y. Testando os valores para y: se y=3, 5x3 = 15, sobrando 111 - 15 = 96 alunos para as mesas de 8 lugares. Como 96/8 = 12, teremos 12 mesas de 8 lugares (x=12). Isso atende à condição de que x > y (12 > 3). Outro valor possível para y seria 11, o que daria x=7, mas 7 não é maior que 11. Logo, há 12 mesas de 8 e 3 mesas de 5, totalizando 15 mesas."
-    },
-    {
-        "id": 33,
-        "resposta": "5",
-        "explicacao": "A função diz que f(2x + 1) = 2f(x) + 1. Queremos descobrir f(5). Note que o número 5 pode ser escrito no formato (2x + 1) se o x for igual a 2, pois 2(2) + 1 = 5. Aplicando a regra da função: f(5) = 2f(2) + 1. O problema já nos informou que f(2) = 2. Substituindo esse valor, ficamos com f(5) = 2(2) + 1, que é igual a 5."
-    },
-    {
-        "id": 34,
-        "resposta": "432",
-        "explicacao": "Seja x o menor número. O maior número é o triplo, ou seja, 3x. A soma dos dois é 48, então x + 3x = 48. Resolvendo, temos 4x = 48, logo x = 12. O número menor é 12 e o maior é 36 (3 x 12). O produto desses dois números é 12 x 36 = 432."
-    },
-    {
-        "id": 35,
-        "resposta": "20",
-        "explicacao": "Na corrida de 100m, o corredor B percorre apenas 90m no mesmo tempo em que o corredor A percorre 100m. Isso significa que B corre a 90% da velocidade de A. Em uma corrida de 200m, quando A cruzar a linha de chegada (tendo percorrido 200m), o corredor B terá percorrido 90% dessa distância, ou seja, 180m. A distância entre eles será de 200 - 180 = 20 metros."
-    },
-    {
-        "id": 36,
-        "resposta": "2052",
-        "explicacao": "Como 19 é um número ímpar, os seus múltiplos se alternam sempre entre par e ímpar (ex: 19 é ímpar, 38 é par, 57 é ímpar, etc). Se 2014 é um múltiplo par de 19, o próximo múltiplo (2014 + 19 = 2033) será ímpar. O múltiplo par seguinte só ocorrerá depois de mais 19, ou seja, somando 38. Portanto, 2014 + 38 = 2052."
-    },
-    {
-        "id": 37,
-        "resposta": "11h42",
-        "explicacao": "Do meio-dia de hoje ao meio-dia de amanhã passam-se 24 horas. Como o relógio atrasa a cada 4 horas, podemos dividir o dia em 6 blocos de 4 horas (24 / 4 = 6). Em cada um desses 6 blocos, o relógio atrasa 3 minutos. O atraso total será de 6 x 3 = 18 minutos. Em vez de marcar 12h00 exatas, ele marcará 18 minutos a menos, ou seja, 11h42."
-    },
-    {
-        "id": 38,
-        "resposta": "47",
-        "explicacao": "Entre 1 e 100, há 33 números divisíveis por 3 (100/3 = 33,3) e 20 números divisíveis por 5 (100/5 = 20). Se somarmos 33 + 20 = 53, contaremos duas vezes os números que são divisíveis por ambos ao mesmo tempo (ou seja, os múltiplos de 15). Como há 6 múltiplos de 15 (100/15 = 6,6), devemos subtraí-los uma vez. A conta final é 33 + 20 - 6 = 47 números."
-    },
-    {
-        "id": 39,
-        "resposta": "8",
-        "explicacao": "As potências de 2 têm um padrão no algarismo das unidades que se repete a cada 4 números: 2, 4, 8 e 6. Para saber onde 2^2023 cai nesse ciclo, dividimos o expoente 2023 por 4. O resto da divisão é 3. Isso significa que o algarismo das unidades será o terceiro do ciclo, que é o número 8."
-    },
-    {
-        "id": 40,
-        "resposta": "9",
-        "explicacao": "Seja F a idade atual de cada um dos gêmeos. Como a mãe os teve aos 25 anos, a idade atual da mãe é F + 25. O pai é 4 anos mais velho, logo a idade do pai é F + 29. A soma de todos é 90, então: (F + 29) + (F + 25) + F + F = 90. Somando os Fs, temos 4F + 54 = 90. Subtraindo 54 de 90, ficamos com 4F = 36. Dividindo por 4, descobrimos que F = 9. Os filhos têm 9 anos."
-    },
-    {
-        "id": 41,
-        "resposta": "1/4",
-        "explicacao": "Se Júlia comeu 1/4, restaram 3/4 da torta. O problema diz que cada uma das duas amigas comeu 1/3 do que sobrou, ou seja, cada uma comeu 1/3 de 3/4, o que equivale a 1/4 da torta. Como são duas amigas, elas comeram juntas 2/4. Somando com o 1/4 que a Júlia comeu, temos um total de 3/4 da torta consumida. Portanto, restou 1/4 da torta."
-    },
-    {
-        "id": 42,
-        "resposta": "42",
-        "explicacao": "Como há 15 pessoas à frente de João, ele é a 16ª pessoa da fila. Existem 5 pessoas entre ele e Maria, ocupando as posições 17, 18, 19, 20 e 21. Logo, Maria ocupa a 22ª posição. Como há 20 pessoas atrás dela, o total de pessoas na fila é a posição da Maria somada aos que estão atrás: 22 + 20 = 42 pessoas."
-    },
-    {
-        "id": 43,
-        "resposta": "21",
-        "explicacao": "Seja M o número de mulheres e H o número de homens. Da primeira informação, temos $M - 3 = H$, ou seja, $M = H + 3$. Da segunda informação, se saírem 3 homens, as mulheres serão o dobro, logo $M = 2(H - 3)$, que simplifica para $M = 2H - 6$. Igualando as duas equações: $H + 3 = 2H - 6$, o que resulta em $H = 9$. Como $M = H + 3$, temos $M = 12$. O total de pessoas na sala é 9 + 12 = 21."
-    },
-    {
-        "id": 44,
-        "resposta": "59",
-        "explicacao": "Note que em todos os casos, o resto é exatamente uma unidade a menos que o divisor (2 para 3, 3 para 4, e 4 para 5). Isso significa que se somarmos 1 a esse número, ele passará a ser divisível perfeitamente por 3, 4 e 5 ao mesmo tempo. O menor número divisível por 3, 4 e 5 é o Mínimo Múltiplo Comum (MMC) deles, que é 60. Se o número somado de 1 é igual a 60, o número original é 60 - 1 = 59."
-    },
-    {
-        "id": 45,
-        "resposta": "15",
-        "explicacao": "Seja x a quantidade de moedas de cada valor. O total em centavos que Ana tem é 200 (pois R$ 2,00 = 200 centavos). A equação fica: $5x + 10x + 25x = 200$. Somando tudo, temos $40x = 200$, o que resulta em $x = 5$. Ela tem 5 moedas de cada um dos três valores. O total de moedas é 5 x 3 = 15."
-    },
-    {
-        "id": 46,
-        "resposta": "13",
-        "explicacao": "Seja C o número de acertos e E o número de erros. Sabemos que $C + E = 20$, então $E = 20 - C$. A pontuação é calculada por $5C - 2E = 51$. Substituindo E na segunda equação: $5C - 2(20 - C) = 51$, que vira $5C - 40 + 2C = 51$. Simplificando, temos $7C = 91$. Dividindo 91 por 7, encontramos $C = 13$. Ele acertou 13 questões."
-    },
-    {
-        "id": 47,
-        "resposta": "43",
-        "explicacao": "Precisamos encontrar um número entre 21 e 49. Como sobra 3 ao dividir por 5, o número deve terminar em 3 ou 8. Os números possíveis nesse intervalo são: 23, 28, 33, 38, 43 e 48. Agora testamos qual deles deixa resto 1 ao ser dividido por 7. O número 43 dividido por 7 dá 6 e sobra exatamente 1 (pois 6 x 7 = 42 + 1 = 43). Logo, ela tem 43 tampinhas."
-    },
-    {
-        "id": 48,
-        "resposta": "30",
-        "explicacao": "A soma total de todas as notas da turma é a média vezes o número de alunos: 50 x 6,8 = 340. Sendo F o número de meninas e M o número de meninos, sabemos que $F + M = 50$, logo $M = 50 - F$. A soma das notas das meninas é 7F e a dos meninos é 6,5M. Então, $7F + 6,5(50 - F) = 340$. Resolvendo: $7F + 325 - 6,5F = 340$, o que dá $0,5F = 15$. Dividindo 15 por 0,5, encontramos 30 meninas."
-    },
-    {
-        "id": 49,
-        "resposta": "8",
-        "explicacao": "O ganho real da lesma é de 1 metro a cada ciclo de 24 horas (sobe 3 e desce 2). No entanto, o último dia é diferente: quando ela alcançar o topo durante o dia, não escorregará mais. No final do 7º dia, a lesma estará exatamente a 7 metros de altura. No 8º dia, ao subir os 3 metros diários, ela atinge a marca de 10 metros e chega ao topo. Portanto, leva 8 dias."
-    },
-    {
-        "id": 50,
-        "resposta": "15",
-        "explicacao": "Se existem 6 times no total, cada time jogará exatamente 1 partida contra os outros 5 adversários. Para um time alcançar a pontuação máxima possível, ele precisa vencer todas as suas partidas. Vencendo os 5 jogos, ele acumulará 5 vitórias vezes 3 pontos por partida, totalizando 15 pontos."
-    }
+  {
+    "id": 1,
+    "resposta": "73,20",
+    "explicacao": "Duas notas de cem reais somam 200 reais. Subtraindo o valor da conta: 200,00 - 126,80 = 73,20. Portanto, o troco é de R$ 73,20."
+  },
+  {
+    "id": 2,
+    "resposta": "4580247",
+    "explicacao": "Como 4580247 = 4580254 - 7, concluímos que 4580247 também é múltiplo de 7, pois a diferença entre eles é exatamente 7."
+  },
+  {
+    "id": 3,
+    "resposta": "600",
+    "explicacao": "A diferença de peso (10,8 - 5,7 = 5,1 kg) corresponde a metade da água. O peso total da água é 2 x 5,1 = 10,2 kg. O peso do garrafão vazio é 10,8 - 10,2 = 0,6 kg, que equivale a 600 gramas."
+  },
+  {
+    "id": 4,
+    "resposta": "12",
+    "explicacao": "Os algarismos disponíveis em 2015 são 0, 1, 2 e 5. Para a casa das dezenas, temos 3 opções (1, 2 ou 5, pois não pode ser 0). Para as unidades, temos as 4 opções. Logo, o total é 3 x 4 = 12 números."
+  },
+  {
+    "id": 5,
+    "resposta": "0",
+    "explicacao": "A multiplicação de números ímpares que inclui o fator 5 termina sempre no algarismo 5. Como a seguir se subtrai 2015 (que também termina em 5), o algarismo das unidades do resultado final será 5 - 5 = 0."
+  },
+  {
+    "id": 6,
+    "resposta": "16",
+    "explicacao": "A soma das faces opostas num dado normal é 7. Para os 5 dados em conjunto, a soma de todas as faces de cima e de baixo é 5 x 7 = 35. Se a soma das faces de cima é 19, a soma das faces de baixo é 35 - 19 = 16."
+  },
+  {
+    "id": 7,
+    "resposta": "885",
+    "explicacao": "O maior número da lista da Ana é 987 (ímpar 9, par 8, ímpar 7). O menor número da lista do Beto é 102 (ímpar 1, pares 0 e 2). A maior diferença possível entre as duas listas é 987 - 102 = 885."
+  },
+  {
+    "id": 8,
+    "resposta": "24",
+    "explicacao": "A Sílvia demora 60 / 5 = 12 minutos para terminar a sua parte. Nesses mesmos 12 minutos, o Renato fez 12 x 3 = 36 biscoitos. Ainda lhe faltam 60 - 36 = 24 biscoitos."
+  },
+  {
+    "id": 9,
+    "resposta": "7,50",
+    "explicacao": "Se 3/8 do bolo custam 4,50, então 1/8 custa 4,50 / 3 = 1,50. O João comprou o restante do bolo, ou seja, 5/8. Logo, ele pagou 5 x 1,50 = 7,50 reais."
+  },
+  {
+    "id": 10,
+    "resposta": "7,2",
+    "explicacao": "A soma das notas dos quatro alunos é 4 x 7,0 = 28. Somando a nota do quinto aluno, o total da turma passa a ser 28 + 8,0 = 36. A média dos cinco alunos será 36 / 5 = 7,2."
+  },
+  {
+    "id": 11,
+    "resposta": "10100",
+    "explicacao": "Para multiplicar um número por 100, basta acrescentar dois zeros ao seu final. Portanto, 101 x 100 resulta em 10100 (dez mil e cem)."
+  },
+  {
+    "id": 12,
+    "resposta": "50",
+    "explicacao": "A prova do nível 1 tem 20 questões. A prova do nível 2 partilha 5 questões com o nível 1 (3 comuns aos três níveis + 2 comuns só ao N1 e N2), tendo por isso 15 questões novas. A prova do nível 3 partilha também 5 questões com os níveis anteriores (3 comuns a todos + 2 comuns só ao N2 e N3), o que lhe confere 15 novas. O total de questões distintas é 20 + 15 + 15 = 50."
+  },
+  {
+    "id": 13,
+    "resposta": "10",
+    "explicacao": "Inicialmente, havia 1 copo de suco e 4 de água, totalizando 5 copos na jarra. Para dobrar esse volume, ele adicionou mais 5 copos de água, ficando com 10 copos no total. Como apenas 1 copo é de suco, a proporção é 1 em 10, o que equivale a 10%."
+  },
+  {
+    "id": 14,
+    "resposta": "C",
+    "explicacao": "Na caixa existem 3 bolas que não são vermelhas (2 brancas e 1 preta). Como o Renato retirou 4 bolas, mesmo no 'pior' cenário onde ele tirasse todas as bolas brancas e a preta, ele só teria 3 bolas nas mãos. Para completar as 4 bolas retiradas, a próxima obrigatoriamente tem que ser vermelha. Logo, a resposta correta é a C (Pelo menos uma bola é vermelha)."
+  },
+  {
+    "id": 15,
+    "resposta": "240",
+    "explicacao": "As voltas completas (5 na ida e 4 na volta) o deixam na mesma posição, então podemos focá-las só nas frações. Na ida, ele parou na metade da pista (1/2). Na volta (em sentido contrário), ele correu mais 1/3 de pista. A distância que ficou faltando até o ponto de início é 1/2 - 1/3 = 1/6 da pista. Se esse 1/6 corresponde aos 40 metros que faltam, a pista toda tem 40 x 6 = 240 metros."
+  },
+  {
+    "id": 16,
+    "resposta": "3",
+    "explicacao": "As combinações possíveis que somam 20 reais exatos são: usar dez notas de 2 reais (10x2=20); usar quatro notas de 5 reais (4x5=20); ou misturar usando cinco notas de 2 reais e duas notas de 5 reais (10+10=20). Portanto, há 3 maneiras diferentes."
+  },
+  {
+    "id": 17,
+    "resposta": "4",
+    "explicacao": "A palavra JABUTICABA é formada pelas letras de JABUTI + CABA. Se JABUTICABA vale 55 e JABUTI vale 40, então as letras CABA valem a diferença: 55 - 40 = 15. A palavra CABRA é formada por CABA + R. Se CABRA vale 19 e CABA vale 15, então a letra R só pode valer 19 - 15 = 4."
+  },
+  {
+    "id": 18,
+    "resposta": "90",
+    "explicacao": "Para comprar exatamente 28 comprimidos com caixas de 12 e 8, a única soma possível é comprar uma caixa de 12 e duas caixas de 8 (12 + 8 + 8 = 28). O custo será 1 caixa de 40 reais somada a 2 caixas de 25 reais (50 reais). O total gasto é 40 + 50 = 90 reais."
+  },
+  {
+    "id": 19,
+    "resposta": "6",
+    "explicacao": "Existem 4 pizzas no total. Como cada amigo comeu 2/3 de uma pizza, podemos pensar em fatias. Se dividirmos cada pizza em 3 pedaços, teremos 12 pedaços no total (4x3). Cada amigo comeu 2 pedaços. Dividindo os 12 pedaços disponíveis por 2 pedaços por pessoa, descobrimos que havia 12 / 2 = 6 amigos."
+  },
+  {
+    "id": 20,
+    "resposta": "45",
+    "explicacao": "Se foram retiradas 9 cadeiras nas outras fileiras, significa que sobraram exatamente 9 fileiras após remover a primeira (logo, o teatro tinha 10 fileiras originais). A conta final é simples: sobraram 9 fileiras e de cada uma delas foi tirada 1 cadeira, restando 5 cadeiras em cada fileira. Fazendo 9 x 5, chegamos a 45 cadeiras."
+  },
+
+  {
+    "id": 21,
+    "pergunta": "As vagas de um estacionamento estão numeradas de 1 a 99. Todas as vagas com número ímpar estão ocupadas, e as demais estão vazias. Quantas vagas estão ocupadas?",
+    "dificuldade": 2
+  },
+  {
+    "id": 22,
+    "pergunta": "Em cada partida de um jogo disputado por dois jogadores, há sempre um vencedor e não há empates. Cada jogador começa o jogo com 100 pontos. Quem vence uma partida soma 5 a seus pontos, e quem perde subtrai 2 de seus pontos. O jogo termina quando a soma dos pontos dos dois jogadores passar de 300. Após o encerramento do jogo, quantas partidas foram realizadas?",
+    "dificuldade": 2
+  },
+  {
+    "id": 23,
+    "pergunta": "Em seu espetáculo, um mágico diz para Fernanda: 'Pense em um número, multiplique por 3, adicione 1, multiplique por 8, subtraia 2 e divida por 6. Agora me diga o número que você encontrou, que eu lhe direi o número em que você pensou.' Que operações matemáticas o mágico pode fazer com o número final dito por Fernanda para descobrir o número original em que ela pensou?",
+    "dificuldade": 2
+  },
+  {
+    "id": 24,
+    "pergunta": "Morgana escolheu seis números inteiros positivos e diferentes entre si, cuja soma é 2020. Qual é o maior número que pode aparecer dentre os números escolhidos?",
+    "dificuldade": 2
+  },
+  {
+    "id": 25,
+    "pergunta": "Uma prova é formada por 45 questões de múltipla escolha. Cada resposta correta vale 1 ponto e para cada resposta errada desconta-se 0,25 ponto; questões não respondidas não são pontuadas. Um estudante obteve 28 pontos nessa prova. Qual é o número máximo de questões que ele pode ter acertado?",
+    "dificuldade": 2
+  },
+  {
+    "id": 26,
+    "pergunta": "Um fabricante diminuiu a quantidade de chocolate em uma caixa de 250 g para 200 g, mantendo o preço da caixa. Qual foi o aumento percentual do preço do grama do chocolate?",
+    "dificuldade": 2
+  },
+  {
+    "id": 27,
+    "pergunta": "Juca colocou algumas bolinhas em uma caixa na qual cabem, no máximo, 100 bolinhas. Artur tirou 1/2 das bolinhas dessa caixa, depois Bernardo tirou 1/3 das restantes, em seguida Carlos tirou 1/4 das que sobraram e, finalmente, Danilo tirou 1/5 das que restaram. Quantas bolinhas ficaram na caixa?",
+    "dificuldade": 2
+  },
+  {
+    "id": 28,
+    "pergunta": "Um supermercado vende rolos idênticos de papel higiênico e faz as seguintes promoções: (Promoção 1) Pague 5 e leve 6. (Promoção 2) Pague 11 e leve 12. (Promoção 3) Pague 14 e leve 18. (Promoção 4) Pague 21 e leve 24. (Promoção 5) Pague 31 e leve 36. Qual é a promoção mais vantajosa para o cliente?",
+    "dificuldade": 2
+  },
+  {
+    "id": 29,
+    "pergunta": "Maria escolheu um número inteiro. Ela somou a esse número os três números ímpares imediatamente inferiores e os dois números pares imediatamente superiores a ele e obteve 1414 como resultado. Qual é a soma dos algarismos do número que Maria escolheu?",
+    "dificuldade": 2
+  },
+  {
+    "id": 30,
+    "pergunta": "Em um palácio estavam presentes apenas o rei e alguns de seus súditos. Cada um dos presentes acenou para cada um dos demais uma única vez, com exceção do rei, que não acenou para ninguém. Houve um total de 1296 acenos. Quantos súditos estavam presentes no palácio?",
+    "dificuldade": 2
+  },
+
+  {
+    "id": 31,
+    "resposta": "5",
+    "explicacao": "Multiplicando toda a equação a/11 + b/3 = 31/33 por 33 (que é o MMC), obtemos 3a + 11b = 31. Como a e b são inteiros positivos, podemos testar valores para b. Se b=1, 3a + 11 = 31, o que dá 3a = 20 (não serve, pois a não seria inteiro). Se b=2, 3a + 22 = 31, o que resulta em 3a = 9, logo a = 3. Como b não pode ser 3 ou maior (pois 11x3 já passaria de 31), os valores são a=3 e b=2. Portanto, a + b = 5."
+  },
+  {
+    "id": 32,
+    "resposta": "15",
+    "explicacao": "Sendo x o número de mesas de 8 lugares e y as mesas de 5, temos a equação 8x + 5y = 111, com a condição de que x > y. Testando os valores para y: se y=3, 5x3 = 15, sobrando 111 - 15 = 96 alunos para as mesas de 8 lugares. Como 96/8 = 12, teremos 12 mesas de 8 lugares (x=12). Isso atende à condição de que x > y (12 > 3). Outro valor possível para y seria 11, o que daria x=7, mas 7 não é maior que 11. Logo, há 12 mesas de 8 e 3 mesas de 5, totalizando 15 mesas."
+  },
+  {
+    "id": 33,
+    "resposta": "5",
+    "explicacao": "A função diz que f(2x + 1) = 2f(x) + 1. Queremos descobrir f(5). Note que o número 5 pode ser escrito no formato (2x + 1) se o x for igual a 2, pois 2(2) + 1 = 5. Aplicando a regra da função: f(5) = 2f(2) + 1. O problema já nos informou que f(2) = 2. Substituindo esse valor, ficamos com f(5) = 2(2) + 1, que é igual a 5."
+  },
+  {
+    "id": 34,
+    "resposta": "432",
+    "explicacao": "Seja x o menor número. O maior número é o triplo, ou seja, 3x. A soma dos dois é 48, então x + 3x = 48. Resolvendo, temos 4x = 48, logo x = 12. O número menor é 12 e o maior é 36 (3 x 12). O produto desses dois números é 12 x 36 = 432."
+  },
+  {
+    "id": 35,
+    "resposta": "20",
+    "explicacao": "Na corrida de 100m, o corredor B percorre apenas 90m no mesmo tempo em que o corredor A percorre 100m. Isso significa que B corre a 90% da velocidade de A. Em uma corrida de 200m, quando A cruzar a linha de chegada (tendo percorrido 200m), o corredor B terá percorrido 90% dessa distância, ou seja, 180m. A distância entre eles será de 200 - 180 = 20 metros."
+  },
+  {
+    "id": 36,
+    "resposta": "2052",
+    "explicacao": "Como 19 é um número ímpar, os seus múltiplos se alternam sempre entre par e ímpar (ex: 19 é ímpar, 38 é par, 57 é ímpar, etc). Se 2014 é um múltiplo par de 19, o próximo múltiplo (2014 + 19 = 2033) será ímpar. O múltiplo par seguinte só ocorrerá depois de mais 19, ou seja, somando 38. Portanto, 2014 + 38 = 2052."
+  },
+  {
+    "id": 37,
+    "resposta": "11h42",
+    "explicacao": "Do meio-dia de hoje ao meio-dia de amanhã passam-se 24 horas. Como o relógio atrasa a cada 4 horas, podemos dividir o dia em 6 blocos de 4 horas (24 / 4 = 6). Em cada um desses 6 blocos, o relógio atrasa 3 minutos. O atraso total será de 6 x 3 = 18 minutos. Em vez de marcar 12h00 exatas, ele marcará 18 minutos a menos, ou seja, 11h42."
+  },
+  {
+    "id": 38,
+    "resposta": "47",
+    "explicacao": "Entre 1 e 100, há 33 números divisíveis por 3 (100/3 = 33,3) e 20 números divisíveis por 5 (100/5 = 20). Se somarmos 33 + 20 = 53, contaremos duas vezes os números que são divisíveis por ambos ao mesmo tempo (ou seja, os múltiplos de 15). Como há 6 múltiplos de 15 (100/15 = 6,6), devemos subtraí-los uma vez. A conta final é 33 + 20 - 6 = 47 números."
+  },
+  {
+    "id": 39,
+    "resposta": "8",
+    "explicacao": "As potências de 2 têm um padrão no algarismo das unidades que se repete a cada 4 números: 2, 4, 8 e 6. Para saber onde 2^2023 cai nesse ciclo, dividimos o expoente 2023 por 4. O resto da divisão é 3. Isso significa que o algarismo das unidades será o terceiro do ciclo, que é o número 8."
+  },
+  {
+    "id": 40,
+    "resposta": "9",
+    "explicacao": "Seja F a idade atual de cada um dos gêmeos. Como a mãe os teve aos 25 anos, a idade atual da mãe é F + 25. O pai é 4 anos mais velho, logo a idade do pai é F + 29. A soma de todos é 90, então: (F + 29) + (F + 25) + F + F = 90. Somando os Fs, temos 4F + 54 = 90. Subtraindo 54 de 90, ficamos com 4F = 36. Dividindo por 4, descobrimos que F = 9. Os filhos têm 9 anos."
+  },
+  {
+    "id": 41,
+    "resposta": "1/4",
+    "explicacao": "Se Júlia comeu 1/4, restaram 3/4 da torta. O problema diz que cada uma das duas amigas comeu 1/3 do que sobrou, ou seja, cada uma comeu 1/3 de 3/4, o que equivale a 1/4 da torta. Como são duas amigas, elas comeram juntas 2/4. Somando com o 1/4 que a Júlia comeu, temos um total de 3/4 da torta consumida. Portanto, restou 1/4 da torta."
+  },
+  {
+    "id": 42,
+    "resposta": "42",
+    "explicacao": "Como há 15 pessoas à frente de João, ele é a 16ª pessoa da fila. Existem 5 pessoas entre ele e Maria, ocupando as posições 17, 18, 19, 20 e 21. Logo, Maria ocupa a 22ª posição. Como há 20 pessoas atrás dela, o total de pessoas na fila é a posição da Maria somada aos que estão atrás: 22 + 20 = 42 pessoas."
+  },
+  {
+    "id": 43,
+    "resposta": "21",
+    "explicacao": "Seja M o número de mulheres e H o número de homens. Da primeira informação, temos $M - 3 = H$, ou seja, $M = H + 3$. Da segunda informação, se saírem 3 homens, as mulheres serão o dobro, logo $M = 2(H - 3)$, que simplifica para $M = 2H - 6$. Igualando as duas equações: $H + 3 = 2H - 6$, o que resulta em $H = 9$. Como $M = H + 3$, temos $M = 12$. O total de pessoas na sala é 9 + 12 = 21."
+  },
+  {
+    "id": 44,
+    "resposta": "59",
+    "explicacao": "Note que em todos os casos, o resto é exatamente uma unidade a menos que o divisor (2 para 3, 3 para 4, e 4 para 5). Isso significa que se somarmos 1 a esse número, ele passará a ser divisível perfeitamente por 3, 4 e 5 ao mesmo tempo. O menor número divisível por 3, 4 e 5 é o Mínimo Múltiplo Comum (MMC) deles, que é 60. Se o número somado de 1 é igual a 60, o número original é 60 - 1 = 59."
+  },
+  {
+    "id": 45,
+    "resposta": "15",
+    "explicacao": "Seja x a quantidade de moedas de cada valor. O total em centavos que Ana tem é 200 (pois R$ 2,00 = 200 centavos). A equação fica: $5x + 10x + 25x = 200$. Somando tudo, temos $40x = 200$, o que resulta em $x = 5$. Ela tem 5 moedas de cada um dos três valores. O total de moedas é 5 x 3 = 15."
+  },
+  {
+    "id": 46,
+    "resposta": "13",
+    "explicacao": "Seja C o número de acertos e E o número de erros. Sabemos que $C + E = 20$, então $E = 20 - C$. A pontuação é calculada por $5C - 2E = 51$. Substituindo E na segunda equação: $5C - 2(20 - C) = 51$, que vira $5C - 40 + 2C = 51$. Simplificando, temos $7C = 91$. Dividindo 91 por 7, encontramos $C = 13$. Ele acertou 13 questões."
+  },
+  {
+    "id": 47,
+    "resposta": "43",
+    "explicacao": "Precisamos encontrar um número entre 21 e 49. Como sobra 3 ao dividir por 5, o número deve terminar em 3 ou 8. Os números possíveis nesse intervalo são: 23, 28, 33, 38, 43 e 48. Agora testamos qual deles deixa resto 1 ao ser dividido por 7. O número 43 dividido por 7 dá 6 e sobra exatamente 1 (pois 6 x 7 = 42 + 1 = 43). Logo, ela tem 43 tampinhas."
+  },
+  {
+    "id": 48,
+    "resposta": "30",
+    "explicacao": "A soma total de todas as notas da turma é a média vezes o número de alunos: 50 x 6,8 = 340. Sendo F o número de meninas e M o número de meninos, sabemos que $F + M = 50$, logo $M = 50 - F$. A soma das notas das meninas é 7F e a dos meninos é 6,5M. Então, $7F + 6,5(50 - F) = 340$. Resolvendo: $7F + 325 - 6,5F = 340$, o que dá $0,5F = 15$. Dividindo 15 por 0,5, encontramos 30 meninas."
+  },
+  {
+    "id": 49,
+    "resposta": "8",
+    "explicacao": "O ganho real da lesma é de 1 metro a cada ciclo de 24 horas (sobe 3 e desce 2). No entanto, o último dia é diferente: quando ela alcançar o topo durante o dia, não escorregará mais. No final do 7º dia, a lesma estará exatamente a 7 metros de altura. No 8º dia, ao subir os 3 metros diários, ela atinge a marca de 10 metros e chega ao topo. Portanto, leva 8 dias."
+  },
+  {
+    "id": 50,
+    "resposta": "15",
+    "explicacao": "Se existem 6 times no total, cada time jogará exatamente 1 partida contra os outros 5 adversários. Para um time alcançar a pontuação máxima possível, ele precisa vencer todas as suas partidas. Vencendo os 5 jogos, ele acumulará 5 vitórias vezes 3 pontos por partida, totalizando 15 pontos."
+  },
+  {
+    "id": 51,
+    "resposta": "260",
+    "explicacao": "Em um único grupo de 13 estudantes, temos 8 meninas e 5 meninos, o que dá uma diferença de 3 meninas a mais por grupo. Se no total há 60 meninas a mais, o número de grupos é 60 / 3 = 20 grupos. Como cada grupo tem 13 estudantes, o total de estudantes é 20 x 13 = 260."
+  },
+  {
+    "id": 52,
+    "resposta": "Cláudia",
+    "explicacao": "Pensando na ordem de chegada: Beatriz (B) chegou depois de Daniela (D) e antes de Ana (A), logo a ordem é D, B, A. O bloco Cláudia, Daniela e Érica (C, D, E) chegaram juntas nessa ordem. Se B chegou depois de D, e CDE chegaram em bloco, B tem que estar depois do bloco. A sequência final é C, D, E, B, A. A primeira a chegar foi a Cláudia."
+  },
+  {
+    "id": 53,
+    "resposta": "18h45",
+    "explicacao": "O frango pesa 2,5 kg, que equivale a 5 metades de meio quilo. O tempo de cozimento é 5 x 12 = 60 minutos (1 hora). Para estar pronto às 20h, o frango deve entrar no forno às 19h. Como o forno precisa ser aceso 15 minutos antes, ela deve acendê-lo às 18h45."
+  },
+  {
+    "id": 54,
+    "resposta": "400",
+    "explicacao": "Observando o padrão, o último número da linha 1 é 1 (1²). O último da linha 2 é 4 (2²). O último da linha 3 é 9 (3²). O último número de cada linha é sempre o quadrado do número da linha. Logo, o último número da linha 20 será 20², que é igual a 400."
+  },
+  {
+    "id": 55,
+    "resposta": "18",
+    "explicacao": "Seja H o número de meninos e M o número de meninas. O total de relações em que um conhece o outro pode ser calculado por dois lados: 4H = (H - 5)M. Isolando, temos H(M - 4) = 5M. Os menores valores inteiros positivos (com H diferente de 5) que satisfazem essa equação perfeitamente são H = 10 e M = 8. O número mínimo de pessoas na festa é 10 + 8 = 18."
+  },
+  {
+    "id": 56,
+    "resposta": "225",
+    "explicacao": "Através das frações de tempo e vazão do problema, deduzimos que as torneiras têm tempos proporcionais. Fazendo o sistema de equações para as vazões, encontramos que a torneira mais rápida leva exatamente 225 minutos para encher tudo sozinha (o que equivale a 3 horas e 45 minutos)."
+  },
+  {
+    "id": 57,
+    "resposta": "5",
+    "explicacao": "Sabemos que (x + y)³ = x³ + y³ + 3xy(x + y). Substituindo os valores (soma = 3, soma dos cubos = 9): 3³ = 9 + 3xy(3). Fica 27 = 9 + 9xy, logo 18 = 9xy, resultando em xy = 2. A soma dos quadrados é x² + y² = (x + y)² - 2xy. Substituindo: 3² - 2(2) = 9 - 4 = 5."
+  },
+  {
+    "id": 58,
+    "resposta": "15",
+    "explicacao": "Somando as três equações: (A+B) + (B+C) + (A+C) = 20 + 24 + 26. Temos 2A + 2B + 2C = 70. Dividindo por 2, a soma da idade das três é A+B+C = 35. Para achar a idade da Carol (a mais velha), subtraímos a soma das outras duas (Ana e Bia = 20): 35 - 20 = 15 anos."
+  },
+  {
+    "id": 59,
+    "resposta": "288",
+    "explicacao": "Para um número ser divisível por 9, a soma dos seus algarismos deve ser divisível por 9. Como precisamos apenas de algarismos pares, a menor soma possível de pares que é múltipla de 9 é 18 (já que a soma 9 não é possível só com pares). O menor número de três algarismos cuja soma é 18 e usa apenas números pares (como 2, 8, 8) é o 288."
+  },
+  {
+    "id": 60,
+    "resposta": "24",
+    "explicacao": "A quantidade de zeros de um fatorial é determinada por quantas vezes o fator 5 aparece nas multiplicações. Dividimos 100 por 5 e obtemos 20 (temos 20 múltiplos de 5). Depois dividimos 100 por 25 (potência de 5) e obtemos 4. Não há múltiplos de 125 até o 100. Somamos 20 + 4 = 24 zeros."
+  }
 ]
