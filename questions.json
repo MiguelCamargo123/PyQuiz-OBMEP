@@ -1,32 +1,62 @@
 [
     {
         "id": 1,
-        "pergunta": "Pedro tem muitas notas de 2 e de 5 reais. Ele precisa pagar uma conta de 20 reais. De quantas maneiras diferentes Pedro pode pagar essa conta sem receber troco?",
+        "pergunta": "Artur deu duas notas de cem reais para pagar uma conta de R$ 126,80. Qual é o valor do troco que ele deve receber?",
         "dificuldade": 1
     },
     {
         "id": 2,
-        "pergunta": "João atribuiu um número a cada letra do alfabeto. Somando os números atribuidos às letras, ele obteve 40 para JABUTI, 19 para CABRA e 55 para JABUTICABA. Qual é o valor que ele atribuiu à letra R?",
+        "pergunta": "Sabendo que o número 4580254 é múltiplo de 7, qual dos seguintes números também é múltiplo de 7: 4580249, 4580248, 4580247, 4580246 ou 4580245?",
         "dificuldade": 1
     },
     {
         "id": 3,
-        "pergunta": "Uma farmácia vende comprimidos em caixas com 12, ao custo de 40 reais por caixa, ou em caixas com 8, ao custo de 25 reais por caixa. Paulo comprou exatamente 28 comprimidos. Quanto ele gastou, em reais, nessa compra?",
+        "pergunta": "Um garrafão cheio de água pesa 10,8 kg. Se retirarmos metade da água nele contida, pesará 5,7 kg. Quanto pesa, em gramas, esse garrafão vazio?",
         "dificuldade": 1
     },
     {
         "id": 4,
-        "pergunta": "Um grupo de amigos se reuniu para comer quatro pizzas. Cada um deles comeu dois terços de uma pizza e não sobrou nada. Quantos eram os amigos",
+        "pergunta": "Maria faz uma lista de todos os números de dois algarismos usando somente os algarismos que aparecem no número 2015. Quantos números diferentes há nessa lista?",
         "dificuldade": 1
     },
     {
         "id": 5,
-        "pergunta": "Em um teatro, cada fileira tem 6 cadeiras. Para melhorar a acessibilidade, foram retiradas todas as cadeiras de uma fileira para formar um corredor e, depois, todas as 9 cadeiras na quinta posição das fileiras restantes. Quantas cadeiras sobraram?",
+        "pergunta": "Qual é o algarismo das unidades do número obtido pela expressão (1 x 3 x 5 x 7 x 9 x 11 x 13 x 15 x 17 x 19) - 2015?",
         "dificuldade": 1
     },
     {
         "id": 6,
-        "pergunta": "Artur deu duas notas de cem reais para pagar uma conta de R$ 126,80. Qual é o valor do troco que ele deve receber?",
+        "pergunta": "Cinco dados foram lançados e a soma dos pontos obtidos nas faces de cima foi 19. Em cada um desses dados, a soma dos pontos da face de cima com os pontos da face debaixo é sempre 7. Qual foi a soma dos pontos obtidos nas faces debaixo?",
+        "dificuldade": 1
+    },
+    {
+        "id": 7,
+        "pergunta": "Ana listou todos os números de três algarismos em que um dos algarismos é par e os outros dois são ímpares e diferentes entre si. Beto fez outra lista com todos os números de três algarismos em que um dos algarismos é ímpar e os outros dois são pares e diferentes entre si. Qual é a maior diferença possível entre um número da lista de Ana e um número da lista de Beto?",
+        "dificuldade": 1
+    },
+    {
+        "id": 8,
+        "pergunta": "Sílvia e Renato vão fazer 60 biscoitos cada um. Eles começam a fazer os biscoitos ao mesmo tempo. A cada minuto, Sílvia faz 5 biscoitos, enquanto Renato faz 3. Quantos biscoitos Renato ainda deverá fazer depois que Sílvia terminar sua tarefa?",
+        "dificuldade": 1
+    },
+    {
+        "id": 9,
+        "pergunta": "Luísa pagou R$ 4,50 por 3/8 de um bolo, e João comprou o resto do bolo. Quanto pagou João?",
+        "dificuldade": 1
+    },
+    {
+        "id": 10,
+        "pergunta": "A professora Elisa aplicou uma prova para cinco alunos. A nota de um deles foi 8,0, e a média das notas dos outros quatro alunos foi 7,0. Qual foi a média das notas desses cinco alunos?",
+        "dificuldade": 1
+    },
+    {
+        "id": 11,
+        "pergunta": "Quanto é 100 x 101?",
+        "dificuldade": 1
+    },
+    {
+        "id": 12,
+        "pergunta": "A primeira fase da OBMEP é composta por três provas, de níveis 1, 2 e 3, com 20 questões em cada prova. Nessas provas, três questões são comuns aos três níveis, duas são comuns somente aos níveis 1 e 2 e outras duas são comuns somente aos níveis 2 e 3. As demais questões só aparecem em uma das provas. Quantas questões diferentes aparecem nas três provas da primeira fase da OBMEP?",
         "dificuldade": 1
     }
 ]
