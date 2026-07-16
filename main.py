@@ -41,6 +41,8 @@ class Quiz:
                     break
                 else:
                     print('Infelizmente, você errou a questão')
+                    print()
+                    print(f'A explicação é a seguinte: {r["explicacao"]}')
                     self.erros += 1
                 break
         self.perguntas_feitas += 1
@@ -99,9 +101,7 @@ def main():
         perguntas.verificar_acerto(questao, resposta)
 
         print()
-        deseja_sair = input(
-            'Você deseja sair do sistema? Se sim, digite S, caso contrario, digite N '
-        ).upper()
+        deseja_sair = input('Você deseja sair do sistema? (S/N) ').upper()
 
         print()
         if deseja_sair == 'S':
