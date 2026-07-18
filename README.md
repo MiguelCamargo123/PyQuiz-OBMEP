@@ -1,29 +1,106 @@
-# 🧠 PyQuiz-OBMEP
+# 🧮 PyQuiz-OBMEP
 
-> **Work in progress** — OBMEP quiz with random question selection by difficulty level.
+A terminal-based Python application designed to help students prepare for the **Brazilian Mathematical Olympiad (OBMEP)** through interactive quizzes.
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+The application randomly selects questions based on the chosen difficulty level, checks the user's answer, provides explanations for incorrect responses, and stores the user's performance history.
 
 ---
 
-## About
+## ✨ Features
 
-A CLI study tool for OBMEP (Brazilian Math Olympiad). It reads questions from a JSON file and randomly picks them based on the chosen difficulty level.
+- 📚 Practice OBMEP-style questions
+- 🎯 Three difficulty levels
+- 🎲 Random question selection
+- ✅ Automatic answer verification
+- 💡 Explanation for incorrect answers
+- 📊 Track personal performance
+- 💾 Save quiz history using JSON
 
-## Tech
+---
 
-- Python 3.x
+## 📸 Preview
+
+```text
+Welcome to the OBMEP Training System!
+
+Choose the difficulty level:
+
+1 - Easy
+2 - Medium
+3 - Hard
+
+Question:
+...
+
+Your answer:
+```
+
+---
+
+## 🛠️ Built With
+
+- Python 3
 - JSON
+- Object-Oriented Programming (OOP)
 
-## How to run
+Standard Library:
+
+- `json`
+- `random`
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
 
 ```bash
-git clone https://github.com/MiguelCamargo123/PyQuiz-OBMEP.git
+git clone https://github.com/YOUR_USERNAME/PyQuiz-OBMEP.git
+```
+
+### Enter the project directory
+
+```bash
 cd PyQuiz-OBMEP
+```
+
+### Run the application
+
+```bash
 python main.py
 ```
 
 ---
 
-*Project under active development — more features and questions coming soon.*
+## 📁 Project Structure
+
+```text
+PyQuiz-OBMEP/
+│
+├── main.py
+├── questions.json
+├── answers.json
+├── historico_pessoal.json
+└── README.md
+```
+
+---
+
+## 📚 What I Learned
+
+This project helped me practice:
+
+- Object-Oriented Programming (OOP)
+- JSON file handling
+- File reading and writing
+- Random question selection
+- Lists and dictionaries
+- Functions and methods
+- User input validation
+- Code organization
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
